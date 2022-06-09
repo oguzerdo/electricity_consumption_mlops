@@ -80,7 +80,7 @@ if __name__ == '__main__':
     parser.add_argument(
         "--data_path",
         default="./output",
-        help="the location where the processed NYC taxi trip data was saved."
+        help="the location where the processed data was saved."
     )
     parser.add_argument(
         "--max_evals",
