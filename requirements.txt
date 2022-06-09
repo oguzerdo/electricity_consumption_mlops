@@ -6,3 +6,7 @@ seaborn
 hyperopt
 xgboost
 boto3
+fastapi[all]
+uvicorn[standard]
+SQLAlchemy==1.4.35
+pymysql==1.0.2
